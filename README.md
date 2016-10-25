@@ -1,0 +1,3 @@
+Example of how to use named streams with [Streamparse](https://github.com/Parsely/streamparse "GitHub - Parsely/streamparse: Run Python in Apache Storm topologies. Pythonic API, CLI tooling, and a topology DSL.").
+
+Install [Apache Storm](http://storm.apache.org/ "Apache Storm") 1.0.2 and add it to you path. Create a [Conda environment](http://conda.pydata.org/docs/using/envs.html "Managing environments &mdash; Conda   documentation") with `$ conda env create`; activate with `$ source activate streamparse-multistream`. Run with `$ sparse run`.

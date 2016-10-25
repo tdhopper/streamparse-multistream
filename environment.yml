@@ -1,0 +1,6 @@
+name: streamparse-multistream
+dependencies:
+- pip
+- python=2
+- pip:
+  - streamparse
